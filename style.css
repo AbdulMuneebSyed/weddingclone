@@ -122,7 +122,9 @@ h2 {
 .balloonFour:after {
  border-bottom: 10px solid #118ab2;
 }
-
+.content{
+  font-size:small;
+}
 .cardInside {
  position: absolute;
  background-color: rgb(255, 237, 132);
